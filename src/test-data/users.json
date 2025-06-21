@@ -1,0 +1,9 @@
+{
+  "validUser": {
+    "mobileNumber": "9391961859"
+  },
+  "invalidUser": {
+    "mobileNumber": "111111111"
+  }
+}
+
